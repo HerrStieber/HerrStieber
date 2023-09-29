@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HerrStieber
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Angular, Typescript, CSS, HTML
+- 🌱 I’m currently developing in Angular, Typescript, CSS, HTML, C#
 
 <!---
 HerrStieber/HerrStieber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
